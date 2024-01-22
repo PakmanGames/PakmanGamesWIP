@@ -1,4 +1,11 @@
-### Hi there 👋
+## 👋 About Me
+Hey, I'm Andy, a first-year engineering student at McMaster University. I'm an aspiring software engineer eager to learn new things everyday!
+
+## 🤔 What I'm currently working on
+I'm currently learning JavaScript, hopefully I will be profficient enough to create some projects soon and post them on GitHub!
+
+## 📫 How to Contact Me
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andy-pak/).
 
 <!--
 **PakmanGames/PakmanGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
