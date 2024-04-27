@@ -2,7 +2,7 @@
 Hey, I'm Andy, a first-year engineering student at McMaster University. I'm an aspiring software engineer eager to learn new things everyday!
 
 ## 🤔 What I'm currently working on
-I'm currently learning JavaScript, hopefully I will be profficient enough to create some projects soon and post them on GitHub!
+I'm currently learning web development, more specifically, JavaScript!
 
 ## 📫 How to Contact Me
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andy-pak/).
