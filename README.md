@@ -5,7 +5,7 @@
 ---
 
 ## <img src="./images/pakmangames.png" alt="gif" width="18px"> About me
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University"></a>
+<a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=000000&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University" style=""></a>
 <br>
 I aspire to solve real-life problems and make the world a better place through the code I write.
 
