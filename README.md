@@ -16,35 +16,33 @@ I aspire to solve real-life problems and make the world a better place through t
 <div align="center">
     <table>
         <tr align="center">
-            <td width="45px" style="padding: 15px;" >
+            <td width="70px" style="padding: 15px;" >
                 <img src="./images/icons/java-original.svg" alt="Java">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/python-original.svg" alt="Python">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/javascript-original.svg" alt="JavaScript">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/html5-original.svg" alt="HTML5">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/css3-original.svg" alt="CSS3">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/git-original.svg" alt="git">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/github-original.svg" alt="GitHub">
             </td>
-            <td width="45px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/vscode-original.svg" alt="vscode">
             </td>
         </tr>
     </table>
 </div>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakmangames&layout=compact" alt="Top Langs" width="300px">
