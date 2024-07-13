@@ -14,18 +14,35 @@ I aspire to solve real-life problems and make the world a better place through t
 ## 💼 Languages and Tools
 
 <div align="center">
-    <img src="./images/icons/java-original.svg" alt="Java" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/python-original.svg" alt="Python" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/javascript-original.svg" alt="JavaScript" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/html5-original.svg" alt="HTML5" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/css3-original.svg" alt="CSS3" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/git-original.svg" alt="git" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/github-original.svg" alt="GitHub" align="left" width="40px" style="padding: 0px 10px 10px 0px">
-    <img src="./images/icons/vscode-original.svg" alt="vscode" align="left" width="40px" style="padding: 0px 10px 10px 0px">
+    <table>
+        <tr align="center">
+            <td width="45px" style="padding: 15px;" >
+                <img src="./images/icons/java-original.svg" alt="Java">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/python-original.svg" alt="Python">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/javascript-original.svg" alt="JavaScript">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/html5-original.svg" alt="HTML5">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/css3-original.svg" alt="CSS3">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/git-original.svg" alt="git">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/github-original.svg" alt="GitHub">
+            </td>
+            <td width="45px" style="padding: 15px;">
+                <img src="./images/icons/vscode-original.svg" alt="vscode">
+            </td>
+        </tr>
+    </table>
 </div>
-
-<br>
-<br>
 
 ---
 
@@ -38,4 +55,4 @@ I aspire to solve real-life problems and make the world a better place through t
 
 ## 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/andy-pak/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px"></a>
+<a href="https://www.linkedin.com/in/andy-pak/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px"></a>
