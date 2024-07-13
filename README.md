@@ -13,7 +13,7 @@ I aspire to solve real-life problems and make the world a better place through t
 
 ## 💼 Languages and Tools
 
-<div>
+<div align="center">
     <img src="./images/icons/java-original.svg" alt="Java" align="left" width="40px" style="padding: 0px 10px 10px 0px">
     <img src="./images/icons/python-original.svg" alt="Python" align="left" width="40px" style="padding: 0px 10px 10px 0px">
     <img src="./images/icons/javascript-original.svg" alt="JavaScript" align="left" width="40px" style="padding: 0px 10px 10px 0px">
@@ -29,6 +29,13 @@ I aspire to solve real-life problems and make the world a better place through t
 
 ---
 
-## 📫 Contact
-Feel free to reach out for a chat on [LinkedIn](https://www.linkedin.com/in/andy-pak/).
-<a href="https://www.linkedin.com/in/andy-pak/"><img src="./images/icons/linkedin-original.svg" alt="LinkedIn" align="left" width="20px" style="padding-right: 10px"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakmangames&layout=compact" alt="Top Langs" width="300px">
+  <img src="https://streak-stats.demolab.com?user=PakmanGames&ring=FF5B5BBE&currStreakLabel=5D8ED0&sideLabels=5D8ED0&dates=000000" alt="GitHub Streak" width="420px"/>
+</p>
+
+---
+
+## 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/andy-pak/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35px"></a>
