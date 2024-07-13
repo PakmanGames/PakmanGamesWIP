@@ -17,28 +17,28 @@ I aspire to solve real-life problems and make the world a better place through t
     <table>
         <tr align="center">
             <td width="70px" style="padding: 15px;" >
-                <img src="./images/icons/java-original.svg" alt="Java">
+                <img src="./images/icons/java-original.svg" width="50px" height="50px" alt="Java">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/python-original.svg" alt="Python">
+                <img src="./images/icons/python-original.svg" width="50px" height="50px" alt="Python">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/javascript-original.svg" alt="JavaScript">
+                <img src="./images/icons/javascript-original.svg" width="50px" height="50px" alt="JavaScript">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/html5-original.svg" alt="HTML5">
+                <img src="./images/icons/html5-original.svg" width="50px" height="50px" alt="HTML5">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/css3-original.svg" alt="CSS3">
+                <img src="./images/icons/css3-original.svg" width="50px" height="50px" alt="CSS3">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/git-original.svg" alt="git">
+                <img src="./images/icons/git-original.svg" width="50px" height="50px" alt="git">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/github-original.svg" alt="GitHub">
+                <img src="./images/icons/github-original.svg" width="50px" height="50px" alt="GitHub">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/vscode-original.svg" alt="vscode">
+                <img src="./images/icons/vscode-original.svg" width="50px" height="50px" alt="vscode">
             </td>
         </tr>
     </table>
