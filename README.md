@@ -14,33 +14,33 @@ I aspire to solve real-life problems and make the world a better place through t
 ## 💼 Languages and Tools
 
 <div align="center">
-    <table>
-        <tr align="center">
-            <td width="70px" style="padding: 15px;" >
+    <table style="border: none;">
+        <tr align="center" style="border: none;">
+            <td width="70px" style="padding: 15px; border: none;" >
                 <img src="./images/icons/java-original.svg" width="50px" height="50px" alt="Java">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/python-original.svg" width="50px" height="50px" alt="Python">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/ruby-original.svg" width="50px" height="50px" alt="Ruby">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/javascript-original.svg" width="50px" height="50px" alt="JavaScript">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/html5-original.svg" width="50px" height="50px" alt="HTML5">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/css3-original.svg" width="50px" height="50px" alt="CSS3">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/git-original.svg" width="50px" height="50px" alt="git">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/github-original.svg" width="50px" height="50px" alt="GitHub">
             </td>
-            <td width="70px" style="padding: 15px;">
+            <td width="70px" style="padding: 15px; border: none;">
                 <img src="./images/icons/vscode-original.svg" width="50px" height="50px" alt="vscode">
             </td>
         </tr>
