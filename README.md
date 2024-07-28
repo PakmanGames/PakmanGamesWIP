@@ -23,6 +23,9 @@ I aspire to solve real-life problems and make the world a better place through t
                 <img src="./images/icons/python-original.svg" width="50px" height="50px" alt="Python">
             </td>
             <td width="70px" style="padding: 15px;">
+                <img src="./images/icons/ruby-original.svg" width="50px" height="50px" alt="Ruby">
+            </td>
+            <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/javascript-original.svg" width="50px" height="50px" alt="JavaScript">
             </td>
             <td width="70px" style="padding: 15px;">
