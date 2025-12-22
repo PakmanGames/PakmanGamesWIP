@@ -81,7 +81,7 @@
                 <img src="./images/icons/supabase-original.svg" width="50px" height="50px" alt="Supabase">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="./images/icons/mysql-original.svg" width="50px" height="50px" alt="MySQL">
+                <img src="./images/icons/postgresql-original.svg" width="50px" height="50px" alt="MySQL">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="./images/icons/vscode-original.svg" width="50px" height="50px" alt="vscode">
