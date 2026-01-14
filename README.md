@@ -93,7 +93,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakmangames&layout=compact" alt="Top Langs" width="300px">
+  <img src="https://github-readme-stats-sand-nine-26.vercel.app/api/top-langs/?username=pakmangames&layout=compact" alt="Top Langs" width="300px">
   <img src="https://streak-stats.demolab.com?user=PakmanGames&ring=FF5B5BBE&currStreakLabel=5D8ED0&sideLabels=5D8ED0&dates=000000" alt="GitHub Streak" width="420px"/>
 </p>
 
