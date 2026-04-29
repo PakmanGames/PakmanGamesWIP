@@ -8,9 +8,8 @@
 <div align="center">
     <a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University"></a>
     <br>
-    <div>I am a full-stack software engineer, eager to develop solutions to problems.</div>
-    <div>I'm currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.</div>
-    <div>I have a passion for web development, digital solutions, challenges, hackathons, and opportunities.</div>
+    <div>Currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.</div>
+    <div>Interested in full-stack development and infrastructure.</div>
     <div>Feel free to <a href="https://www.linkedin.com/in/andy-pak/">connect</a> with me!</div>
 </div>
 
