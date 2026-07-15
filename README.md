@@ -1,4 +1,4 @@
-# PakmanGames
+# Andy Pak
 
 <div align="center"><img src="./images/s;g.gif" alt="gif" width="500px"></div>
 
@@ -8,10 +8,17 @@
 <div align="center">
     <a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University"></a>
     <br>
-    <div>Currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.</div>
+    <!-- <div>Currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.</div>
     <div>Interested in full-stack development and infrastructure.</div>
-    <div>Feel free to <a href="https://www.linkedin.com/in/andy-pak/">connect</a> with me!</div>
+    <div>Feel free to <a href="https://www.linkedin.com/in/andy-pak/">connect</a> with me!</div> -->
 </div>
+
+- Currently a SWE Intern at Citi
+- Previously a SDE Intern at SOTI
+- SWE Student at McMaster University
+
+- Interested in full-stack development and infrastructure
+- Reach out on [LinkedIn](https://www.linkedin.com/in/andy-pak/) or at [contact@apak.ca](mailto:contact@apak.ca)
 
 ---
 
