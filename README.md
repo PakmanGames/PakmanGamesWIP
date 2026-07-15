@@ -5,7 +5,7 @@
 ---
 
 ## <img src="./images/pakmangames.png" alt="gif" width="18px"> About me
-<div align="center">
+<div align="left">
     <a href="https://github.com/PakmanGames" style="border-radius: 16px; overflow: hidden; display: inline-block;"><img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+at+McMaster+University" alt="Software Engineer at McMaster University"></a>
     <br>
     <!-- <div>Currently pursuing a Bachelor's of Engineering in Software Engineering at <a href="https://www.eng.mcmaster.ca/" target="_blank">McMaster University</a>.</div>
